@@ -8,7 +8,7 @@ public class ItemController {
 
     @GetMapping("/item")
     public String getItem() throws InterruptedException {
-        Thread.sleep(4000);
+//        Thread.sleep(4000);
         return "Item";
     }
 

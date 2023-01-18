@@ -1,8 +1,8 @@
-resilience4j.bulkhead:
-  instances:
-    orderService:
-      maxWaitDuration: 5000
-      maxConcurrentCalls: 5
+#resilience4j.bulkhead:
+#  instances:
+#    orderService:
+#      maxWaitDuration: 3000
+#      maxConcurrentCalls: 5
 
 resilience4j.thread-pool-bulkhead:
   instances:
