@@ -15,3 +15,7 @@ Netflix recommends resilience4j since hystrix is in maintenance mode
 <img width="1204" alt="Screenshot 2023-01-19 at 4 18 38 AM" src="https://user-images.githubusercontent.com/43849911/213312132-4e6bfc45-ca7b-4c35-9f99-e7590c7adbc5.png">
 
 <img width="702" alt="Screenshot 2023-01-19 at 4 27 33 AM" src="https://user-images.githubusercontent.com/43849911/213313651-b06c0eeb-c302-4611-abb1-6d2f47b4efc6.png">
+
+<img width="1257" alt="Screenshot 2023-01-19 at 4 31 51 AM" src="https://user-images.githubusercontent.com/43849911/213314146-57dbb8aa-88cf-423d-8ae5-f3a24a72c4e9.png">
+
+<img width="1129" alt="Screenshot 2023-01-19 at 4 32 41 AM" src="https://user-images.githubusercontent.com/43849911/213314253-5b085632-e9c4-42e2-9219-c467868a300f.png">
